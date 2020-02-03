@@ -1,0 +1,4 @@
+/home/daniel/git/aws-lambda-kvp-minimal-java/LambdaAPI/src/main/java/de/ifgi/nuest/awslambda/kvp/APIHandler.java
+/home/daniel/git/aws-lambda-kvp-minimal-java/LambdaAPI/src/main/java/de/ifgi/nuest/awslambda/LambdaRequestHandler.java
+/home/daniel/git/aws-lambda-kvp-minimal-java/LambdaAPI/src/main/java/de/ifgi/nuest/awslambda/LambdaMethodHandler.java
+/home/daniel/git/aws-lambda-kvp-minimal-java/LambdaAPI/src/main/java/de/ifgi/nuest/awslambda/LambdaRequestStreamHandler.java
